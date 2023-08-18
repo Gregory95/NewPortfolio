@@ -216,7 +216,7 @@ const projects = [
             },
         ],
         image: covidtracker,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Gregory95/Covid-19Tracker",
     },
 ];
 

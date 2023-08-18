@@ -24,7 +24,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt="logo" className='w-9 h-9 object-contain' style={{ width: 100, height:60, objectFit:'cover' }} />
+          {/* <img src={logo} alt="logo" className='w-12 h-12 object-contain' /> */}
           <p className='text-white text-[18px] font-bold cursor-pointer flex'>Grego &nbsp;
             <span className='sm:block hidden'>| Code</span>
           </p>
